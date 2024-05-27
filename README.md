@@ -3,8 +3,8 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/age-22-Green" alt="age" />
-  <img src="https://img.shields.io/badge/living-Ho Chi Minh City-yellow?cacheSeconds=30" alt="living" />
-  <img src="https://komarev.com/ghpvc/?username=anhemlam648&label=Profile%20views&color=FFFFFF&style=flat" alt="anhemlam648" />
+  <img src="https://img.shields.io/badge/living-Ho Chi Minh-yellow?cacheSeconds=30" alt="living" />
+  <img src="https://komarev.com/ghpvc/?username=anhemlam648&label=Profile%20views&color=FF9900&style=flat" alt="anhemlam648" />
 </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anhemlam648" alt="anhemlam648" /></a> </p>
