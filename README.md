@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Vu Trung Nghia</h1>
 <h3 align="center">A passionate individual with a keen interest in Web Developer.</h3>
-👨‍💻  Discover more about me by exploring my profile
 <h2 align="left">🌟 About Me</h2>
 <p align="left">
   📚 I enjoy reading books, listening to music, traveling, and exploring new cuisines.
 </p>
 <p align="left">
-📫 For any inquiries or collaboration opportunities, feel free to reach out to me at:[vunghia467@gmail.com](mailto:vunghia467@gmail.com).
+📫 For any inquiries or collaboration opportunities, feel free to reach out to me at <a href="mailto:vunghia467@gmail.com">vunghia467@gmail.com</a>.
 </p>
 <p align="left">
   <img src="https://img.shields.io/badge/age-22-00CC33" alt="age" />
