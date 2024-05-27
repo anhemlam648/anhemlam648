@@ -2,7 +2,7 @@
 <h3 align="center">A passionate individual with a keen interest in Web Developer.</h3>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/age-22-Green" alt="age" />
+  <img src="https://img.shields.io/badge/age-22-Blue" alt="age" />
   <img src="https://img.shields.io/badge/living-Ho Chi Minh-yellow?cacheSeconds=30" alt="living" />
   <img src="https://komarev.com/ghpvc/?username=anhemlam648&label=Profile%20views&color=FF9900&style=flat" alt="anhemlam648" />
 </p>
