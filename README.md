@@ -2,9 +2,9 @@
 <h3 align="center">A passionate individual with a keen interest in Web Developer.</h3>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/age-22-00FF00" alt="age" />
-  <img src="https://img.shields.io/badge/living-Ho Chi Minh-00FF00?cacheSeconds=30" alt="living" />
-  <img src="https://komarev.com/ghpvc/?username=anhemlam648&label=Profile%20views&color=00FF00&style=flat" alt="anhemlam648" />
+  <img src="https://img.shields.io/badge/age-22-00CC33" alt="age" />
+  <img src="https://img.shields.io/badge/living-Ho Chi Minh-00CC33?cacheSeconds=30" alt="living" />
+  <img src="https://komarev.com/ghpvc/?username=anhemlam648&label=Profile%20views&color=00CC33&style=flat" alt="anhemlam648" />
 </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anhemlam648" alt="anhemlam648" /></a> </p>
