@@ -4,12 +4,14 @@
 <p align="left">
   <img src="https://img.shields.io/badge/age-22-00CC33" alt="age" />
   <img src="https://img.shields.io/badge/living-Ho Chi Minh-00CC33?cacheSeconds=30" alt="living" />
+  <img src="https://komarev.com/ghpvc/?username=anhemlam648&label=Profile%20views&color=00CC33&style=flat" alt="anhemlam648" />
+</p>
 </p>
 <p align="left">
   📚 I enjoy reading books, listening to music, traveling, and exploring new cuisines.
 </p>
 <p align="left">
-📫 For any inquiries or collaboration opportunities, feel free to reach out to me at <a href="mailto:vunghia467@gmail.com">vunghia467@gmail.com</a>.
+📫 For any inquiries or collaboration opportunities, feel free to reach out to me at: <a href="mailto:vunghia467@gmail.com">vunghia467@gmail.com</a>.
 </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anhemlam648" alt="anhemlam648" /></a> </p>
 
