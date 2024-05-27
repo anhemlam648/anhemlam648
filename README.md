@@ -2,6 +2,8 @@
 <h3 align="center">A passionate individual with a keen interest in Web Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anhemlam648&label=Profile%20views&color=0e75b6&style=flat" alt="anhemlam648" /> </p>
+![age](https://img.shields.io/badge/age-22-blue)
+![living](https://img.shields.io/badge/living-BinhDuong-3c9)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anhemlam648" alt="anhemlam648" /></a> </p>
 <h3 align="left">Languages and Tools:</h3>
