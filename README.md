@@ -15,7 +15,7 @@
 </p>
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=anhemlam648&no_issues=true&no_prs=true&no_reviews=true" alt="anhemlam648" />
+    <img src="https://github-profile-trophy.vercel.app/?username=anhemlam648&theme=dark&no_issues=true&no_prs=true&no_reviews=true" alt="anhemlam648" />
   </a> 
 </p>
 
