@@ -3,6 +3,7 @@
 </h1>
 <h3 align="center">A passionate individual with a keen interest in Web Developer.</h3>
 <h2 align="left">🌟 About Me</h2>
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left">
   <img src="https://img.shields.io/badge/age-22-00CC33" alt="age" />
   <img src="https://img.shields.io/badge/living-Ho Chi Minh-00CC33?cacheSeconds=30" alt="living" />
@@ -14,6 +15,9 @@
 </p>
 <p align="left">
 📫 For any inquiries or collaboration opportunities, feel free to reach out to me at: <a href="mailto:vunghia467@gmail.com">vunghia467@gmail.com</a>.
+</p>
+<p align="left">
+  ✨ I am passionate about technology and continuously seeking to learn and grow in the ever-evolving digital landscape.
 </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anhemlam648&theme=radical&row=1" alt="anhemlam648" /></a></p> 
 <h3 align="left">Languages and Tools:</h3>
