@@ -3,7 +3,7 @@
 </h1>
 <h3 align="center">A passionate individual with a keen interest in Web Developer.</h3>
 <h2 align="left">🌟 About Me</h2>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif">
+<img align="right" alt="coding" width="395" src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif">
 <p align="left">
   <img src="https://img.shields.io/badge/age-22-00CC33" alt="age" />
   <img src="https://img.shields.io/badge/living-Ho Chi Minh-00CC33?cacheSeconds=30" alt="living" />
