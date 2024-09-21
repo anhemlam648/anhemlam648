@@ -1,3 +1,4 @@
+[![banner](https://i.redd.it/xaq5fbhr07yb1.gif)](https://anhemlam648.io)
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+I'm+Vu+Trung+Nghia!+👋;I'm+Developer+from+Vietnam!+⭐️&color=00CC00" alt="Typing Effect" />
 </h1>
