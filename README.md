@@ -1,7 +1,7 @@
 [![banner](https://i.redd.it/xaq5fbhr07yb1.gif)](https://anhemlam648.io)
-<!-- <h1 align="center">
+<h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+I'm+Vu+Trung+Nghia!+👋;I'm+Developer+from+Vietnam!+⭐️&color=00CC00" alt="Typing Effect" />
-</h1> -->
+</h1>
 <h3 align="center">A passionate individual with a keen interest in Web Developer.</h3>
 <h2 align="left">🌟 About Me</h2>
 <img align='right' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='200'>
