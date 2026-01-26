@@ -20,10 +20,9 @@
   ✨ I am passionate about technology and continuously seeking to learn and grow in the ever-evolving digital landscape.
 </p>
 <p align="left">
-    <a href="https://pixel-profile.vercel.app/api/github-stats?username=anhemlam648&theme=fuji&pixelate_avatar=false">
-  <!-- <a href="https://github-trophies.vercel.app/?username=anhemlam648">
+  <a href="https://github-trophies.vercel.app/?username=anhemlam648">
     <img src="https://github-trophies.vercel.app/?username=anhemlam648" alt="GitHub Trophies" />
-  </a> -->
+  </a>
 </p>
 <!-- <img src="https://img.shields.io/github/followers/anhemlam648?label=Followers&style=social" alt="followers" /> <img src="https://img.shields.io/github/stars/anhemlam648?label=Stars&style=social" alt="stars" /> -->
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anhemlam648&theme=radical&row=1" alt="anhemlam648" /></a></p>  -->
