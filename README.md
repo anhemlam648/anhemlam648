@@ -86,6 +86,5 @@
 </a> -->
 <div>
     <h3 align="left">Animation</h3>
-    <img src="https://raw.githubusercontent.com/anhemlam648/anhemlam648/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Grid Snake Animation - Dark Mode" />
-    <img src="https://raw.githubusercontent.com/anhemlam648/anhemlam648/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Contribution Grid Snake Animation - Light Mode" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anhemlam648/anhemlam648/output/github-snake.svg" /> <img alt="github-snake" src="https://raw.githubusercontent.com/anhemlam648/anhemlam648/output/github-snake.svg" />
 </div>
