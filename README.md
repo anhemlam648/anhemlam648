@@ -7,7 +7,6 @@
 <p align="left">
   <img src="https://img.shields.io/badge/age-22-00CC33" alt="age" />
   <img src="https://img.shields.io/badge/living-Ho Chi Minh-00CC33?cacheSeconds=30" alt="living" />
-  <img src="https://komarev.com/ghpvc/?username=anhemlam648&label=Profile%20views&color=00CC33&style=flat" alt="anhemlam648" />
 </p>
 </p>
 <p align="left">
