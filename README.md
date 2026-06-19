@@ -83,7 +83,7 @@
 <a href="#">
   <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=anhemlam648&hide=html,scss,css&langs_count=8&layout=compact&theme=radical&card_width=150" />
 </a> -->
-<div>
+<!-- <div>
     <h3 align="left">Animation</h3>
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anhemlam648/anhemlam648/output/github-snake.svg" /> <img alt="github-snake" src="https://raw.githubusercontent.com/anhemlam648/anhemlam648/output/github-snake.svg" />
-</div>
+</div> -->
